@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 def predict_gender(name):
-    name = name.lower()
+    name = name.lower() 
 
     boys_names = ["john", "william", "james", "michael", "david", "richard", "joseph", "charles", "thomas",
                   "christopher", "daniel", "matthew", "anthony", "mark", "paul", "steven", "andrew", "kenneth",
